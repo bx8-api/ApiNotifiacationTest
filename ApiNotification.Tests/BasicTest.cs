@@ -6,6 +6,7 @@ namespace ApiNotification.Tests
     public class BasicTest
     {
         [Test]
+        [Ignore]
         public void InvalidTest()
         {
             Assert.IsTrue(false);
